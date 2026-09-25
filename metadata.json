@@ -1,0 +1,6 @@
+{
+  "name": "SprintPlus Shortcut Buddy",
+  "description": "Interactieve oefenomgeving om alle sneltoetsen van SprintPlus en SprintPlus.online spelenderwijs te leren en in te oefenen met virtueel toetsenbord en niveaus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
